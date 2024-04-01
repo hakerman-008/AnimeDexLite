@@ -1,13 +1,13 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u=";
+const ProxyApi = "";
 const animeapi = "/anime/";
 const episodeapi = "/episode/";
 const dlapi = "/download/";
 
 // Api Server Manager
 
-const AvailableServers = ["https://api3.xitiz1234567891.workers.dev"];
+const AvailableServers = ["https://zoro-watch-kshitiz.vercel.app/"];
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)];
