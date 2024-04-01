@@ -24,7 +24,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+   background: #2eb82e;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -57,7 +57,7 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+  background: linear-gradient(to right, #2eb82e 40%, #56d74a);
     width: 100%;
     text-align: center;
     height: 86px;
@@ -69,7 +69,7 @@ footer a {
 }
 
 h1 {
-    color: #eb3349;
+   color: #2eb82e;
     font-family: "Poppins", sans-serif;
 }
 
@@ -263,7 +263,7 @@ h1 {
 }
 
 .watch-btn {
-    background: #ed3832;
+   background: #2eb82e;
     color: black;
     border-radius: 4px;
     font-weight: 400;
@@ -536,7 +536,7 @@ h1 {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    color: #ed3832;
+    color: #44ff00;
     font-weight: 500;
     width: 100%;
     font-size: 20px;
@@ -640,7 +640,7 @@ h2 {
 
 .dubb {
     color: white;
-    background-color: red;
+    background-color: #00ff1e;
     position: absolute;
     bottom: 10px;
     left: 10px;
@@ -1013,7 +1013,7 @@ h2 {
 }
 
 .container h6 {
-    color: #721c24;
+    color: #ff0019;
     font-size: x-large;
 }
 
@@ -1023,7 +1023,7 @@ h2 {
 }
 
 .container a {
-    color: #721c24;
+    color: #00ff1e;
     text-decoration: underline;
 }
 
@@ -1119,7 +1119,7 @@ h2 {
 
 .ep-divo-upper {
     border: none;
-    background-color: orange;
+    background-color: #c8ff00;
     margin: 5px 10px 10px 10px;
     padding: 10px 15px;
 }
