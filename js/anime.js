@@ -6,7 +6,7 @@ const recommendationsapi = "/recommendations/";
 
 // Api Server Manager
 
-const AvailableServers = ["https://zoro-watch-kshitiz.vercel.app/"];
+const AvailableServers = ["https://zoro-watch-kshitiz.vercel.app"];
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)];
