@@ -13,13 +13,14 @@ header {
 }
 
 footer {
-    background: #eb3349;
-    display: flex;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
+   background: #3eb489;
+display: flex;
+flex-wrap: nowrap;
+align-content: center;
+justify-content: center;
+align-items: center;
+height: 50px;
+
 }
 
 footer div {
@@ -58,7 +59,7 @@ footer a {
 }
 
 h1 {
-    color: #eb3349;
+  color: #2b7a0b;
     font-family: "Poppins", sans-serif;
 }
 
