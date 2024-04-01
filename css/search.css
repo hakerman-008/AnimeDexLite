@@ -24,7 +24,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #05ff22;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -57,7 +57,7 @@ footer a {
 }
 
 #head-div {
-    background: linear-gradient(to right, #eb3349 40%, #f45c43);
+    background: linear-gradient(to right, #59f873 40%, #00ff2a);
     width: 100%;
     text-align: center;
     height: 86px;
@@ -200,7 +200,7 @@ section img {
 
 h2 {
     font-family: "Montserrat", sans-serif;
-    color: #ed3832;
+    color: #00ff2a;
     font-weight: 500;
     width: 100%;
     font-size: 20px;
@@ -281,7 +281,7 @@ h2 {
 
 .dubb {
     color: white;
-    background-color: red;
+    background-color: #37ff00;
     position: absolute;
     bottom: 10px;
     left: 10px;
@@ -630,7 +630,7 @@ h2 {
 }
 
 .container h1 {
-    color: #721c24;
+    color: #00ff33;
 }
 
 .container p {
@@ -639,7 +639,7 @@ h2 {
 }
 
 .container a {
-    color: #721c24;
+    color: #00ff11;
     text-decoration: underline;
 }
 
